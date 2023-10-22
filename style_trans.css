@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Cera Pro;
+  }
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  ul {
+    list-style: none;
+    border-bottom: 1px solid rgb(212, 212, 212);
+    padding: 1rem 0;
+    line-height: 1rem;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .img-sect {
+    width: 100%;
+    border-bottom: 1px solid rgb(212, 212, 212);
+  }
+  .container {
+    display: grid;
+    grid-template-columns: 20% 80%;
+    height: 100vh;
+  }
+  
+  .aside {
+    padding: 2rem;
+    background: rgb(81, 0, 128);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+    color: aliceblue;
+  }
+  
+  .main {
+    background: rgb(222, 204, 245);
+  }
+  .container-box{
+    background: white;
+    width: 800px;
+    height: 480px;
+    margin: auto;
+  }* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Cera Pro;
+  }
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  ul {
+    list-style: none;
+    border-bottom: 1px solid rgb(212, 212, 212);
+    padding: 1rem 0;
+    line-height: 1rem;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .img-sect {
+    width: 100%;
+    border-bottom: 1px solid rgb(212, 212, 212);
+  }
+  .container {
+    display: grid;
+    grid-template-columns: 20% 80%;
+    height: 100vh;
+  }
+  
+  .aside {
+    padding: 2rem;
+    background: rgb(81, 0, 128);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+    color: aliceblue;
+  }
+  
+  .main {
+    background: rgb(222, 204, 245);
+  }
+  .container-box{
+    background: white;
+    width: 800px;
+    height: 480px;
+    margin: auto;
+  }* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Cera Pro;
+  }
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  ul {
+    list-style: none;
+    border-bottom: 1px solid rgb(212, 212, 212);
+    padding: 1rem 0;
+    line-height: 1rem;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .img-sect {
+    width: 100%;
+    border-bottom: 1px solid rgb(212, 212, 212);
+  }
+  .container {
+    display: grid;
+    grid-template-columns: 20% 80%;
+    height: 100vh;
+  }
+  
+  .aside {
+    padding: 2rem;
+    background: rgb(81, 0, 128);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+    color: aliceblue;
+  }
+  
+  .main {
+    background: rgb(222, 204, 245);
+  }
